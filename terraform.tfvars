@@ -2,7 +2,7 @@
 # Copy this file to terraform.tfvars and customize for your deployment
 
 # AWS Configuration
-aws_region = "us-east-1"
+aws_region = "eu-central-1"
 
 # EKS Cluster Configuration
 cluster_name = "n8n"
